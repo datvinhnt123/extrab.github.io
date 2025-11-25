@@ -20,19 +20,22 @@ Organized folder and file structure
 No JavaScript was required for this stage.
 
 📂 Website Structure
-extrab.github.io/
-│
-├── index.html        # Homepage
-├── about.html        # Personal information and skills
-├── projects.html     # Project gallery with descriptions
-├── contact.html      # Contact details and icons
-│
-├── styles.css        # Main stylesheet
-│
-└── assets/
-    ├── images/       # Profile + project images
-    └── icons/        # Icons used in navbar/contact
-
+project-folder/
+│── index.html
+│── about.html
+│── projects.html
+│── contact.html
+│── styles.css
+│── README.md
+│── report.md
+│── assets/
+│     ├── bgg.avif
+│     ├── github-mark.png
+│     ├── gradee.png
+│     ├── gui.jpg
+│     ├── v.jpg
+│     ├── vc.jpg
+│     ├── web.jpg
 📝 Pages Description
 Page	Description
 index.html	:Homepage introduction, tagline, and quick overview.
